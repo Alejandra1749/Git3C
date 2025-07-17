@@ -6,7 +6,7 @@ package git3c;
 
 /**
  *
- * @author pamel
+ * @author pamela alejandra hdz
  */
 public class Git3C {
 
